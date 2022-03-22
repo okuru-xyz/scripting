@@ -1,4 +1,4 @@
 # scripting
-scripting documentation for Okuru selfbot
+scripting documentation for okuru selfbot's "script" feature.
 ## info
 **coming soon**
